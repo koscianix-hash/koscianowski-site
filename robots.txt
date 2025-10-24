@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://koscianowski.com/sitemap.xml
+
+# Blokowanie nieistotnych adresów (jeśli się pojawią)
+Disallow: /private/
+Disallow: /tmp/
